@@ -1,0 +1,4 @@
+pyzbar
+matplotlib
+opencv-python
+numpy
